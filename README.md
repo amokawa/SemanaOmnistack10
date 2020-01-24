@@ -16,7 +16,16 @@
 </p>
 
 ### Overview
+**WIP**
+
+### Credits
 This project is a result of the video classes ministered by the RocketSeat team which the original project can be viewed in [here](https://github.com/Rocketseat/semana-omnistack-10/blob/master/README.md#-projeto).
+
+#### Tecnologies
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 
 ### Project setup
 Once you clone this project perform the below commands to setup the projects.

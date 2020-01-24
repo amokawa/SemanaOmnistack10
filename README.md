@@ -31,10 +31,9 @@ This project is a result of the video classes ministered by the RocketSeat team 
 Once you clone this project perform the below commands to setup the projects.
 #### Dependencies
 - General: [Install Yarn](https://legacy.yarnpkg.com/lang/en/docs/install/#mac-stable)
-- For mobile: [Install Expo](https://docs.expo.io/versions/latest/get-started/installation/) or simply
-```bash
-yarn global add install expo-cli
-```
+- For mobile: [Install Expo](https://docs.expo.io/versions/latest/get-started/installation/) or simply `bash
+yarn global add install expo-cli`
+
 #### Backend
 ```bash
 cd backend

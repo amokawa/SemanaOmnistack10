@@ -15,5 +15,11 @@
   </a>
 </p>
 
-# Credits
+### Overview
+- WIP
+
+### Getting started
+- WIP
+
+### Credits
 This project will document all the takeaways from this course provided by RocketSeat [[Link to the original project]](https://github.com/Rocketseat/semana-omnistack-10)

@@ -17,7 +17,7 @@ setupWebSocket(server);
  * [MongoDB Atlas] Additional information:
  * - Don't forget to setup the network access!
  */
-const dbString = "mongodb+srv://omnistack:omnistack@cluster0-rl8y5.mongodb.net/week10?retryWrites=true&w=majority";
+const dbString = "MongoDB_Atlas_provided_connection_URL";
 
 mongoose.connect(dbString,  {
       useNewUrlParser: true, 
